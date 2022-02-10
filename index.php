@@ -2,8 +2,22 @@
 
     teste();
     echo " Public.";
+
 /**
- * Descricao
+ * Teste Alfa
+ *
+ * @author Dagoberto Amorim
+ * @date 2022-02-09
+ * @param null
+ * @return null
+ */
+function Alfa() {
+
+    echo "Alfa";
+}
+
+/**
+ * Teste de funcao
  *
  * @author Dagoberto Amorim
  * @date 2022-02-09
@@ -15,9 +29,5 @@ function teste() {
     echo "Teste";
 }
 
-function Alfa() {
-
-    echo "Alfa";
-}
 ?>
 
