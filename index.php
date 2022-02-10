@@ -15,5 +15,9 @@ function teste() {
     echo "Teste";
 }
 
+function branch() {
+
+    echo "Branch"
+}
 ?>
 
