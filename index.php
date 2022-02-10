@@ -15,9 +15,9 @@ function teste() {
     echo "Teste";
 }
 
-function branch() {
+function Alfa() {
 
-    echo "Branch"
+    echo "Alfa";
 }
 ?>
 
