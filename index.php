@@ -1,15 +1,14 @@
 <?php
 
     teste();
-    echo " Public."
+    echo " Public.";
 /**
  * Descricao
  *
  * @author Dagoberto Amorim
- * @date
- * @param type  $axxxx descricao
- * @param type  $axxxx descricao
- * @return type  descricao
+ * @date 2022-02-09
+ * @param null
+ * @return null
  */
 function teste() {
 
